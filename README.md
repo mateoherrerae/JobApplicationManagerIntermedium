@@ -1,2 +1,2 @@
 # JobApplicationManagerIntermedium
-I made a Recruitment Management Application developed in Java using Swing. It includes functionalities for recruiters and applicants, with database integration (PostgreSQL) and the use of the Service design pattern.
+As a practical assignment for a project in the Programming Paradigms course at my university, I developed a Recruitment Management Application in Java using Swing. This application includes functionalities for recruiters and applicants, with database integration and the use of the Service design pattern. The project demonstrates my knowledge in database management and object-oriented programming
